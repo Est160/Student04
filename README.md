@@ -5,4 +5,5 @@ main( )
   printf("What is your name?\t");
   scanf("%s",Chatree Promprasert);
   printf("hello,%s\n",Chatree Promprasert);
+  printf("Goodbye\n");
 }
